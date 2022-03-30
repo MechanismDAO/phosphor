@@ -11,6 +11,10 @@ Looking for something to do? Try fixing a bug, or any issue tagged "good first i
 
 For those reporting bugs, try to follow the template and avoid duplicates where possible.
 
+We use templates and labels to distinguish between issue types and urgency.
+
+We also appreciate ideas or feature requests.
+
 ## Pull Requests
 Try to follow the [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/) spec and tag a [code owner](/CODEOWNERS).
 
